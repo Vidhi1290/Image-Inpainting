@@ -6,7 +6,7 @@ Welcome to the Image Inpainting Showcase repository, where the magic of image re
 
 ## Features:
 
-Multi-Dataset Expertise: Our project boasts proficiency in working with a diverse range of datasets, including:
+*Multi-Dataset Expertise:* Our project boasts proficiency in working with a diverse range of datasets, including:
 1. MNIST Handwritten Digits: The foundational dataset for handwritten digit recognition, showcasing our capability to restore distorted digits to their original form.
 2. CIFAR-10: With its colorful array of images, we've mastered the ability to repair sections of these complex images, restoring their visual integrity.
 3. LFW (Labeled Faces in the Wild): Our repository excels at the intricacies of facial inpainting, ensuring that damaged portions of human faces are reconstructed with precision.
